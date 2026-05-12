@@ -11,3 +11,10 @@ How to update:
 To deploy:
 Upload all files and folders to your GitHub portfolio repo.
 Vercel will redeploy automatically.
+
+
+Updated version notes:
+- Project wording now honestly says In Progress / In Development.
+- Homepage includes a Professional Statement section.
+- Homepage includes a Currently Building section.
+- Project cards now point to progress instead of pretending completed case studies.
